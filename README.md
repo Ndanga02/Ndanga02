@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Ndanga</h1>
-<h3 align="center">Welcome to my little corner of GitHub, where I share my adventures and creations with a big grin on my face!</h3>
+<h1 align="center">HI 👋, I'm NDANGA</h1>
+<h3 align="center">Welcome to my little corner of GitHub</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ndanga02" alt="ndanga02" /></a> </p>
 
-- 🌱 I’m currently learning **python**
+- 🌱 I’M CURRENTLY LEARNING **PYTHON**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
