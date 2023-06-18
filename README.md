@@ -1,12 +1,11 @@
-
-<h1 align="center">HI 👋, I'm NDANGA</h1>
-<h3 align="center">Welcome to my little corner of GitHub</h3>
-
 <style>
   body {
     background-color: white;
   }
 </style>
+
+<h1 align="center">HI 👋, I'm NDANGA</h1>
+<h3 align="center">Welcome to my little corner of GitHub</h3>
 
 - 🌱 I’M CURRENTLY LEARNING **PYTHON**
 
