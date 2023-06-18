@@ -1,5 +1,5 @@
 # About Me :
-I'M CURRENTLY LEARNING : PYTHON | CALCULUS | MACHINE LEARNING
+I'M CURRENTLY LEARNING PYTHON
 
 ## Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/ndanga02)
