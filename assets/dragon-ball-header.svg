@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220">
+  <defs>
+    <linearGradient id="sky" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0a12"/>
+      <stop offset="45%" stop-color="#1a1030"/>
+      <stop offset="100%" stop-color="#0d1b3d"/>
+    </linearGradient>
+    <radialGradient id="aura" cx="50%" cy="50%" r="60%">
+      <stop offset="0%" stop-color="#ff6b00" stop-opacity="0.55"/>
+      <stop offset="55%" stop-color="#ffd700" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#0066ff" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="900" height="220" rx="18" fill="url(#sky)"/>
+  <rect width="900" height="220" rx="18" fill="url(#aura)"/>
+  <circle cx="120" cy="110" r="58" fill="#ff6b00" opacity="0.12"/>
+  <circle cx="780" cy="110" r="72" fill="#0066ff" opacity="0.12"/>
+  <!-- Dragon Ball -->
+  <circle cx="110" cy="110" r="42" fill="#ff6b00" stroke="#ffd700" stroke-width="4" filter="url(#glow)"/>
+  <circle cx="110" cy="110" r="30" fill="#c44d00"/>
+  <polygon points="110,78 118,98 140,98 122,110 128,132 110,120 92,132 98,110 80,98 102,98" fill="#ffd700"/>
+  <text x="110" y="116" text-anchor="middle" font-family="Arial Black, sans-serif" font-size="18" fill="#1a0800">4</text>
+  <!-- Title -->
+  <text x="450" y="88" text-anchor="middle" font-family="Arial Black, Impact, sans-serif" font-size="42" fill="#ffd700" filter="url(#glow)">SURGE_N</text>
+  <text x="450" y="122" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#ff9a3c" letter-spacing="6">NDANGAENI NEDZAMBA</text>
+  <text x="450" y="152" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#9ecbff">Data Analyst · ML Engineer · Full Stack Developer</text>
+  <text x="450" y="178" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#7a8aa0">Germiston, Gauteng 🇿🇦 · Turning data into decisions</text>
+  <!-- Ki sparks -->
+  <circle cx="250" cy="60" r="3" fill="#ffd700" opacity="0.9"/>
+  <circle cx="680" cy="70" r="4" fill="#ff6b00" opacity="0.8"/>
+  <circle cx="720" cy="150" r="3" fill="#66b3ff" opacity="0.9"/>
+  <circle cx="200" cy="160" r="2.5" fill="#ffd700" opacity="0.7"/>
+</svg>
